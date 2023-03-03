@@ -1,4 +1,11 @@
 //41.46 points (50%)
+/* Results
+4	1291 ms	14.4 MB	Time limit exceeded
+3	1291 ms	15.1 MB	Time limit exceeded
+2	228 ms	11.1 MB	OK
+1	251 ms	11.2 MB	OK
+0	223 ms	10.6 MB	OK
+*/
 
 import java.util.*;
 import java.lang.*;
