@@ -1,3 +1,5 @@
+//41.46 points (50%)
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
